@@ -1,0 +1,22 @@
+# Ignore everything
+/**/*.py
+/**/*.csv
+/**/*.sql
+/**/*.pdf
+/**/*.mp4
+/**/*.txt
+/**/*.Rhistory
+/**/*.ipynb
+/**/*.png
+/**/*.zip
+
+
+# But not these files...
+#!.gitignore
+#!*.R
+#!README.md
+#!data_science/edx/*.R
+#!data_science/edx/Mod1/*.R
+#!data_science/edx/Mod2/*.R
+#!data_science/edx/Mod3/*.R
+#!data_science/edx/Mod4/*.R
