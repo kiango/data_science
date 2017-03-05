@@ -1,4 +1,6 @@
-# Ignore everything
+# Ignore everything: *
+
+# Ignore:
 /**/*.py
 /**/*.csv
 /**/*.sql
@@ -9,6 +11,10 @@
 /**/*.ipynb
 /**/*.png
 /**/*.zip
+
+*~
+*.gitignore~
+*.md~
 
 
 # But not these files...
