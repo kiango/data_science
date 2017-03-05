@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Ignore everything:  *
 
 # Ignore:
+=======
+# Ignore everything
+>>>>>>> 61ee371761eb1b169092e32104c6debe2bc9c1bf
 /**/*.py
 /**/*.csv
 /**/*.sql
@@ -12,10 +16,13 @@
 /**/*.png
 /**/*.zip
 
+<<<<<<< HEAD
 *~
 *.gitignore~
 *.md~
 
+=======
+>>>>>>> 61ee371761eb1b169092e32104c6debe2bc9c1bf
 
 # But not these files...
 #!.gitignore
